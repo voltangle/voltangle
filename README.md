@@ -10,7 +10,7 @@ I also fly FPV quads, like photography and videography, ride electric unicycles,
 ![https://github.com/ggoraa/etxdb](https://img.shields.io/badge/Currently%20working%20on-lv_cxx_bindgen-red?style=flat)
 ![https://code.visualstudio.com](https://img.shields.io/badge/Editor-neovim-green?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-black?style=flat)
-![](https://img.shields.io/badge/EUCs-Project%20%22Protocruiser%22%20%2F%20KS14%20%2F%20S22-orange?style=flat)
+![](https://img.shields.io/badge/EUCs-ET%20Max%20%2F%20Patton%20%2F%20S22%20%2FMonstrL%20%2F%20KS14-orange?style=flat)
 <!-- ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-Xcode-blue?style=flat) -->
 
 ## GitHub Stats
