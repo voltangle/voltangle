@@ -1,6 +1,6 @@
 # Hi fellas 👋
 
-Hi, I am GGorAA, Middle Swift on iOS/macOS, Junior embedded C/C++, and Junior Rust software engineer!
+Hi, I am Voltangle, Middle Swift on iOS/macOS, Junior embedded C/C++, and Junior Rust software engineer!
 
 I also fly FPV quads, like photography and videography, ride electric unicycles, love Kawasaki motorcycles, and am obsessed with making new things, both physical and virtual!
 
@@ -11,17 +11,16 @@ I also fly FPV quads, like photography and videography, ride electric unicycles,
 ![https://code.visualstudio.com](https://img.shields.io/badge/Editor-neovim-green?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-black?style=flat)
 ![](https://img.shields.io/badge/EUCs-ET%20Max%20%2F%20Patton%20%2F%20S22%20%2F%20MonstrL%20%2F%20KS14-orange?style=flat)
-<!-- ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-Xcode-blue?style=flat) -->
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Voltangle&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/pin?username=EdgeTX&repo=edgetx)
-![](https://github-readme-stats.vercel.app/api/pin?username=ggoraa&repo=edgetx-badapple)
+![](https://github-readme-stats.vercel.app/api/pin?username=Voltangle&repo=edgetx-badapple)
 
 ## Contact me📪
 
-[Telegram](https://t.me/Voltangle)
+[Telegram](https://t.me/voltangle)
 
 [Discord](https://discordapp.com/users/759086415387557898)
 
