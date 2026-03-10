@@ -16,10 +16,4 @@ Also check out my blog at [voltangle.dev](https://voltangle.dev) :)
 
 ## Contact me📪
 
-[Telegram](https://t.me/voltangle)
-
-[LinkedIn](https://linkedin.com/in/voltangle)
-
-[Discord](https://discordapp.com/users/759086415387557898)
-
-[Email](mailto:yegor_yakovenko@icloud.com)
+[Telegram](https://t.me/voltangle) | [LinkedIn](https://linkedin.com/in/voltangle) | [Discord](https://discordapp.com/users/759086415387557898) | [Email](mailto:yegor_yakovenko@icloud.com)
